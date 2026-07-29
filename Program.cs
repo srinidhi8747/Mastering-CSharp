@@ -1,3 +1,3 @@
-﻿using Mastering_CSharp._001___Hello_World;
+﻿using Mastering_CSharp._002_Add_Two_Numbers;
 
-HelloWorld.Run();
+AddTwoNumbers.Run();
