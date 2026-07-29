@@ -1,0 +1,44 @@
+﻿# ===========================
+# Visual Studio
+# ===========================
+.vs/
+.vscode/
+
+# ===========================
+# Build output
+# ===========================
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# ===========================
+# User-specific files
+# ===========================
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===========================
+# Debug files
+# ===========================
+*.pdb
+*.cache
+
+# ===========================
+# Rider / ReSharper (optional)
+# ===========================
+_ReSharper*/
+*.DotSettings.user
+
+# ===========================
+# OS files
+# ===========================
+.DS_Store
+Thumbs.db
+
+# ===========================
+# GitHub Copilot instructions (optional)
+# ===========================
+.github/copilot-instructions.md
