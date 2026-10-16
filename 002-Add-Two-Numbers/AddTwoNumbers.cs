@@ -17,7 +17,7 @@ namespace Mastering_CSharp._002_Add_Two_Numbers
 
             Console.WriteLine($"First Number  : {number1}");
             Console.WriteLine($"Second Number : {number2}");
-            Console.WriteLine($"Sum           : {sum}");
+            Console.WriteLine($"Sum  of 2 numbers         : {sum}");
         }
     }
 }
